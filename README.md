@@ -20,8 +20,8 @@ I'm a **dedicated JavaScript student** passionate about learning and growing as 
 
 ### 📫 Connect with Me  
 - GitHub: [Nicola310805](https://github.com/Nicola31082005)  
-- LinkedIn: *(Add your LinkedIn profile here if you have one!)*  
-- Email: *(Optional, if you want to share it!)*  
+- LinkedIn: [Profile link - ](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
+- Email: nikola.dimitrov3108@gmail.com 
 
 ---
 
