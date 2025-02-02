@@ -19,7 +19,7 @@ I'm a **dedicated JavaScript student** passionate about learning and growing as 
 - Improving **problem-solving & algorithms**  
 
 ### 📫 Connect with Me  
-- GitHub: [Nicola310805](https://github.com/Nicola310805)  
+- GitHub: [Nicola310805](https://github.com/Nicola31082005)  
 - LinkedIn: *(Add your LinkedIn profile here if you have one!)*  
 - Email: *(Optional, if you want to share it!)*  
 
